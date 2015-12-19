@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="http://i.imgur.com/8R9bh4c.png"/>
+  <img src="http://i.imgur.com/i8aQxrq.png"/>
+  <img src="http://i.imgur.com/2bjsbMd.png"/>
 </p>
 
 ## Usage:
